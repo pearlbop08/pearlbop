@@ -1,0 +1,38 @@
+*{padding: 0;margin: 0; box-sizing: border-box;}
+body{
+    overflow-x: hidden;
+}
+.carousel-item img{
+    width: 100% ;
+    height: 40vh;
+}
+.container{
+    <div class="grid gap-0 column-gap-3">
+  <div class="p-2 g-col-6">Grid item 1</div>
+  <div class="p-2 g-col-6">Grid item 2</div>
+  <div class="p-2 g-col-6">Grid item 3</div>
+  <div class="p-2 g-col-6">Grid item 4</div>
+  <div class="p-2 g-col-6">Grid item 5</div>
+  <div class="p-2 g-col-6">Grid item 6</div>
+  <div class="p-2 g-col-6">Grid item 7</div>
+</div>
+}
+.card{
+    margin-top: 100px;
+}
+
+.carousel-inner{ font-family: 'Martian Mono', monospace;
+    
+
+}
+.accordion{
+    border-width: 90px 30px;
+}
+
+.content{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 100px;
+}
+.contact{text-align:left right;
+margin-top: 200px;}
